@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/index.scss","webpack://src/styles/App.scss"],"names":[],"mappings":"AAAA,KACE,uBAAwB,CAD1B,UCCE,SAAU","file":"main.1904fd9b.chunk.css","sourcesContent":["body {\n  font-family: \"Open Sans\";\n  @import \"App\";\n}\n",".App {\n  padding: 0;\n}\n"]}
